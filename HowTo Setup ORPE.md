@@ -12,8 +12,8 @@ In order for ORPE to use the camera, the LCCV library must be installed. Follow 
 
 # Setting up ORPE #
 - 1. Go into home folder: cd
-- 2. clone the repo: git clone https://gitlab.com/chst15/tamariw/orpetmw.git
-- 3. Go into repo folder: cd orpetmw
+- 2. clone the repo: git clone https://github.com/TAMARIW/ORPE.git
+- 3. Go into repo folder: cd ORPE
 - 4. Build via build script: ./build.sh
 
 To Run ORPE, simply launch the "ORPE" executable located inside the build folder
