@@ -6,8 +6,8 @@ You must have the arm toolchain for the STM32F4 installed. Usually available via
 CMake and make are also required for the build process.
 
 # How to setup #
-- 1. Clone project: git clone https://gitlab.com/chst15/tamariw/stm32tmw.git
-- 2. Go into folder: cd stm32tmw
+- 1. Clone project: git clone https://github.com/TAMARIW/GDCS.git
+- 2. Go into folder: cd GDCS
 - 3. Init submodules: git submodule init
 - 4. Update submodules: git submodule update
 
